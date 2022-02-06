@@ -6,7 +6,7 @@ use these keys while app run to control:
 
   up/down arrow - increase/decrease values of chosen counter
   
-  righn/left arrow - change active counter
+  righn/left arrow - change active counter (active counter is colored green)
   
   ESC - save data and close app. (save file stored in the C:/ root)
   
