@@ -1,4 +1,4 @@
-# Console-counter (Bit flags, Exceptions handling, File management, Serialization)
+# Console-counter
 
 Console counter is a console based project that allows you to count things in many counters.
 
