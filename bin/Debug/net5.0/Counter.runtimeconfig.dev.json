@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\flysw\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\flysw\\.nuget\\packages"
+    ]
+  }
+}

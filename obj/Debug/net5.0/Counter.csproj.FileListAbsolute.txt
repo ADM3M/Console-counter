@@ -1,0 +1,16 @@
+C:\Users\flysw\source\repos\Counter\bin\Debug\net5.0\Counter.exe
+C:\Users\flysw\source\repos\Counter\bin\Debug\net5.0\Counter.deps.json
+C:\Users\flysw\source\repos\Counter\bin\Debug\net5.0\Counter.runtimeconfig.json
+C:\Users\flysw\source\repos\Counter\bin\Debug\net5.0\Counter.runtimeconfig.dev.json
+C:\Users\flysw\source\repos\Counter\bin\Debug\net5.0\Counter.dll
+C:\Users\flysw\source\repos\Counter\bin\Debug\net5.0\ref\Counter.dll
+C:\Users\flysw\source\repos\Counter\bin\Debug\net5.0\Counter.pdb
+C:\Users\flysw\source\repos\Counter\obj\Debug\net5.0\Counter.csproj.AssemblyReference.cache
+C:\Users\flysw\source\repos\Counter\obj\Debug\net5.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flysw\source\repos\Counter\obj\Debug\net5.0\Counter.AssemblyInfoInputs.cache
+C:\Users\flysw\source\repos\Counter\obj\Debug\net5.0\Counter.AssemblyInfo.cs
+C:\Users\flysw\source\repos\Counter\obj\Debug\net5.0\Counter.csproj.CoreCompileInputs.cache
+C:\Users\flysw\source\repos\Counter\obj\Debug\net5.0\Counter.dll
+C:\Users\flysw\source\repos\Counter\obj\Debug\net5.0\ref\Counter.dll
+C:\Users\flysw\source\repos\Counter\obj\Debug\net5.0\Counter.pdb
+C:\Users\flysw\source\repos\Counter\obj\Debug\net5.0\Counter.genruntimeconfig.cache
