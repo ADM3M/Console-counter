@@ -4,10 +4,10 @@ Console counter is a console based project that allows you to count things in ma
 
 use these keys while app run to control:
 
-  up/down arrow - increase/decrease values of chosen counter
+  **Up/Down arrow** - increase/decrease values of chosen counter
   
-  righn/left arrow - change active counter (active counter is colored green)
+  **Right/Left arrow** - change active counter (active counter is colored green)
   
-  ESC - save data and close app. (save file stored in the C:/ root)
+  **ESC** - save data and close app. (save file stored in the C:/ root)
   
-  R - reset data (deletes save file, if exists)
+  **R** - reset data (deletes save file, if exists)
